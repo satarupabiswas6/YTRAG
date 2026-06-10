@@ -1,0 +1,9 @@
+RAG Introduction
+    RAG stands for Retrieval Augmented Generation. It is the process of optimizing the output of an LLM,
+    so it references an authoritative knowledge base outside of its training data source before generating a response.
+
+    LLMs are trained on vast volumes of data and use billions of parameters to generate original output for  tasks like question answering, translating, and completing sentences.
+
+    RAG extends the already powerful capabilities of LLMs to specific domains or an organization's internal knowledge base,
+    all without the need to retrain the model.
+    it is cost-effective approach to improve LLM output so it remains relevant, accurate, and useful in various context.
